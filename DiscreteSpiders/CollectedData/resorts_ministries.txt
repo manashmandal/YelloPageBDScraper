@@ -1,0 +1,13 @@
+{'Greentech Resort & Convention Center',
+ 'Knight Resort',
+ 'Ministry Of Cultural Affairs',
+ 'Ministry Of Establishment',
+ 'Ministry Of Food & Disaster Management',
+ 'Ministry Of Foreign Affairs',
+ 'Ministry of Education, Government of the People s Republic of Bangladesh',
+ 'Ministry of Expatriates Welfare & Overseas Government of the People s Republic of Bangladesh',
+ 'Ministry of Finance, Government of the People`s Republic of Bangladesh',
+ 'Ministry of Fire Service & Civil Defence',
+ 'Ministry of Law, Justice and Parliamentary Affairs, Government of the People`s Republic of Bangladesh',
+ 'Ministry of Planning',
+ 'Ministry of Post & Telecommunications'}
