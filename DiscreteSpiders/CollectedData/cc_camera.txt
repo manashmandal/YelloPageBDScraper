@@ -1,0 +1,3 @@
+{'High-Tech-Communication',
+ 'Neecom', 
+ 'Numeric Solution Ltd.'}
