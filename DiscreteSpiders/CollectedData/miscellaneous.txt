@@ -1,0 +1,7 @@
+{'Prithula Corporation',
+'Square Toiletries Ltd.',
+'LIFELINE HEALTHCARE',
+'Dhaka Power Distribution Company Limited (DPDC)',
+'Active Technology',
+'East asia Group',
+'Hossain Travel and Tours'}
