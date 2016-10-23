@@ -4,4 +4,7 @@
 'Dhaka Power Distribution Company Limited (DPDC)',
 'Active Technology',
 'East asia Group',
-'Hossain Travel and Tours'}
+'Hossain Travel and Tours',
+'Deputy Commissioner  (DC)', 
+'R & R Aviation Ltd'}
+
