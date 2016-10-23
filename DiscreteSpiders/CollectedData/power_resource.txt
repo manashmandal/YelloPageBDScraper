@@ -1,0 +1,6 @@
+{'ATN Bangla',
+ 'Desh Energy Limited',
+ 'Dipon Gas Co.Ltd.',
+ 'Power Resources Limited',
+ 'Tullow Bangladesh Ltd.',
+ 'Wartsila Bangaldesh Ltd.'}
